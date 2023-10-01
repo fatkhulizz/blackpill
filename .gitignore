@@ -1,0 +1,13 @@
+.vscode/
+.idea/
+.cache/
+build/
+backup/
+Debug/
+cmake-build-debug/
+CMakeLists_template.txt
+
+# CubeIDE settings
+.project
+.cproject
+.mxproject
